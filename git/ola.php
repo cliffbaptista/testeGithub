@@ -1,6 +1,8 @@
 <?php
   
-  echo "Ola Mundo! 456";
+
+  echo "Ola Mundo! 123";
   
-  echo "Oi pessoas tudo em paz! tudo otimo hehehe";
+  echo "tudo em paz!";
+
 ?>
